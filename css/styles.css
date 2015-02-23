@@ -1,0 +1,29 @@
+/* Mobile */
+@media (max-width: 480px) {
+
+		body {
+			background: teal;
+
+		}
+
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+
+		body {
+			background: yellow;
+
+		}
+
+}
+
+/* Desktop */
+@media (min-width: 992px) {
+
+		body {
+			background: red;
+
+		}
+
+}
